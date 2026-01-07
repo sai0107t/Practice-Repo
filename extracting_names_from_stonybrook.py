@@ -128,3 +128,4 @@ if __name__ == "__main__":
     faculty = enrich_with_email(faculty)
     save_csv(faculty)
     print("\n🎯 Done")
+    
